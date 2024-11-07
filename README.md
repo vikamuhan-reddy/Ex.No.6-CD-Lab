@@ -49,11 +49,11 @@ return 0;
 
 ## OUTPUT:
 ### text file
-<img width="350" alt="Screen Shot 1946-08-16 at 09 08 59" src="https://github.com/user-attachments/assets/416ff8a5-7327-446e-b20a-d0a34389cf53">
+<img width="250" alt="Screen Shot 1946-08-16 at 09 08 59" src="https://github.com/user-attachments/assets/416ff8a5-7327-446e-b20a-d0a34389cf53">
 
 
 ### output
-<img width="350" alt="383021060-02ed081a-7317-4383-83a4-033aa7f44603" src="https://github.com/user-attachments/assets/720c1fe4-6464-48d6-a5fa-f6fb0c68799a">
+<img width="300" alt="383021060-02ed081a-7317-4383-83a4-033aa7f44603" src="https://github.com/user-attachments/assets/720c1fe4-6464-48d6-a5fa-f6fb0c68799a">
 
 
 ## RESULT:
